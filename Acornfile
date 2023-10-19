@@ -1,5 +1,5 @@
 services: mariadb: {
-  image: "ghcr.io/acorn-io/mariadb:v1.0.0"
+  image: "ghcr.io/acorn-io/mariadb:v10.11.5-1"
 }
 
 containers: {
